@@ -72,6 +72,8 @@ Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 Error handling can and should be improved.
 
+Various and better commands are on the way. Stay tuned!
+
 ### Amaç 
 
 Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, belli başlı görevleri gerçekleştirir.
@@ -142,3 +144,5 @@ Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 ### Further Notes
 
 Hata ayıklaması daha iyi yapılabilir/yapılmalı.
+
+Çeşitli ve daha iyi komutlar yolda. Takipte kalın!
