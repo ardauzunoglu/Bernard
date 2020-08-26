@@ -109,7 +109,7 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 **İşlev:** Açmak istediğiniz içeriği sorar ve Netflix'in websitesine girerek o içeriği oynatır. <br>
 
 **Komut Adı:** spotify <br>
-**İşlev:** Spotify'ın web playerına girerek herhangi bir cihazda dinlediğiniz en son şarkıyı oynatır. <br>
+**İşlev:** Spotify'ın web player'ına girerek herhangi bir cihazda dinlediğiniz en son şarkıyı oynatır. <br>
 
 **Komut Adı:** yemeksepeti <br>
 **İşlev:** Sipariş etmek istediğiniz restoranı ve o restorandan sipariş edeceğiniz üç parçayı -daha azını da sipariş edebilirsiniz- sorar ve Yemeksepeti üzerinden sipariş verir. <br>
