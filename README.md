@@ -30,8 +30,8 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 
 ### Commands - What can Bernard do?
 
-**Command Name:** tarih 
-**Function:** Returns and tells the date of asked day.
+**Command Name:** tarih <br>
+**Function:** Returns and tells the date of asked day. <br>
 **Example:** What is the date after 15 days?
 
 **Command Name:** netflix
@@ -102,39 +102,40 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 ### Komutlar - Bernard neler yapabilir?
 
 **Komut Adı:** tarih 
-**Örnek:** Sorduğunuz günün tarihini söyler.
+<br>
+**İşlev:** Sorduğunuz günün tarihini söyler.
 <br>
 **Örnek:** 15 gün sonrasının tarihi ne?
 
 **Komut Adı:** netflix
-**Örnek:** Açmak istediğiniz içeriği sorar ve Netflix'in websitesine girerek o içeriği oynatır.
+**İşlev:** Açmak istediğiniz içeriği sorar ve Netflix'in websitesine girerek o içeriği oynatır.
 
 **Komut Adı:** spotify
-**Örnek:** Spotify'ın web playerına girerek herhangi bir cihazda dinlediğiniz en son şarkıyı oynatır.
+**İşlev:** Spotify'ın web playerına girerek herhangi bir cihazda dinlediğiniz en son şarkıyı oynatır.
 
 **Komut Adı:** yemeksepeti
-**Örnek:** Sipariş etmek istediğiniz restoranı ve o restorandan sipariş edeceğiniz üç parçayı -daha azını da sipariş edebilirsiniz- sorar ve Yemeksepeti üzerinden sipariş verir.
+**İşlev:** Sipariş etmek istediğiniz restoranı ve o restorandan sipariş edeceğiniz üç parçayı -daha azını da sipariş edebilirsiniz- sorar ve Yemeksepeti üzerinden sipariş verir.
 
 **Komut Adı:** gmail
-**Örnek:** Alıcının eposta adresini, epostanın başlığını ve göndermek istediğiniz mesajı sorar ve verdiğiniz bilgiler doğrultusunda eposta gönderir.
+**İşlev:** Alıcının eposta adresini, epostanın başlığını ve göndermek istediğiniz mesajı sorar ve verdiğiniz bilgiler doğrultusunda eposta gönderir.
 
 **Komut Adı:** youtube
-**Örnek:** Açmak istediğiniz videoyu sorar, arama yapar ve arama sonucu çıkan ilk videoyu açar. Eğer arama sonucu çıkan ilk şey bir kanalsa, o kanalın videolar sekmesini açar.
+**İşlev:** Açmak istediğiniz videoyu sorar, arama yapar ve arama sonucu çıkan ilk videoyu açar. Eğer arama sonucu çıkan ilk şey bir kanalsa, o kanalın videolar sekmesini açar.
 
 **Komut Adı:** google
-**Örnek:** İstediğiniz herhangi bir şeyi Google'lar ve çıkan sonuç ister bir açıklama, ister bir vikipedi barı, ister bir youtube videosu, ister sıradan bir bağlantı olsun, bu sonucu döndürür ve sana söyler. Eğer çıkan ilk sonuç bir youtube videosu ise o videoyu açar.
+**İşlev:** İstediğiniz herhangi bir şeyi Google'lar ve çıkan sonuç ister bir açıklama, ister bir vikipedi barı, ister bir youtube videosu, ister sıradan bir bağlantı olsun, bu sonucu döndürür ve sana söyler. Eğer çıkan ilk sonuç bir youtube videosu ise o videoyu açar.
 
 **Komut Adı:** ceviri
-**Örnek:** Türkçe'den, İngilizce, Almanca ya da İspanyolca dillerinden istediğinize kelime çevirisi yapar.
+**İşlev:** Türkçe'den, İngilizce, Almanca ya da İspanyolca dillerinden istediğinize kelime çevirisi yapar.
 
 **Komut Adı:** etkinlik_goster
-**Örnek:** Google Calendar üzerinden istediğiniz gün sayısı içerisindeki etkinliklerinizi gösterir.
+**İşlev:** Google Calendar üzerinden istediğiniz gün sayısı içerisindeki etkinliklerinizi gösterir.
 
 **Komut Adı:** etkinlik_ekle
-**Örnek:** Google Calendar'a verdiğiniz bilgiler doğrultusunda yeni bir etkinlik ekler.
+**İşlev:** Google Calendar'a verdiğiniz bilgiler doğrultusunda yeni bir etkinlik ekler.
 
 **Komut Adı:** doviz_cevir
-**Örnek:** 50'den fazla para birimi arasında çeviri yapar.
+**İşlev:** 50'den fazla para birimi arasında çeviri yapar.
 
 ### Developer 
 
