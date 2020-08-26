@@ -14,7 +14,6 @@ import speech_recognition as sr
 import sqlite3 
 from gtts import gTTS
 from  subcommands import tarih_bul
-import pytz
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select, WebDriverWait
 from selenium.common.exceptions import NoSuchElementException, ElementNotInteractableException, StaleElementReferenceException, ElementClickInterceptedException
@@ -31,8 +30,6 @@ from email.mime.multipart import MIMEMultipart
 from apiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 import requests
-from nltk.chat.util import Chat, reflections 
-
 
 r = sr.Recognizer()
 sayi = 1
