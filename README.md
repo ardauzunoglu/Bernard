@@ -30,7 +30,7 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 
 [More about Python path](https://www.youtube.com/watch?v=Y2q_b4ugPWk)
 
-[Needed JSON file 1 - credentials.json] (https://developers.google.com/calendar/quickstart/go)
+[Needed JSON file 1 - credentials.json](https://developers.google.com/calendar/quickstart/go)
 
 Click 'Enable the Google Calendar API' button.
 
@@ -40,7 +40,7 @@ Choose desktop app. Click Create.
 
 Click 'DOWNLOAD CLIENT CONFIGURATION'.
 
-[Needed JSON file 2 - client_secret.json] (https://console.developers.google.com/apis/dashboard)
+[Needed JSON file 2 - client_secret.json](https://console.developers.google.com/apis/dashboard)
 
 Click 'Credentials'.
 
