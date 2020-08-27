@@ -127,7 +127,7 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 [Python path'i hakkında daha fazlası](https://www.youtube.com/watch?v=Y2q_b4ugPWk)
 
-[Gerekli JSON dosyası 1 - credentials.json] (https://developers.google.com/calendar/quickstart/go)
+[Gerekli JSON dosyası 1 - credentials.json](https://developers.google.com/calendar/quickstart/go)
 
 'Enable the Google Calendar API' butonuna tıklayın.
 
@@ -137,7 +137,7 @@ Desktop app'i seçin. Create butonuna tıklayın.
 
 'DOWNLOAD CLIENT CONFIGURATION' butonuna tıklayın.
 
-[Needed JSON file 2 - client_secret.json] (https://console.developers.google.com/apis/dashboard)
+[Needed JSON file 2 - client_secret.json](https://console.developers.google.com/apis/dashboard)
 
 Kimlik bilgilerine tıklayın.
 
