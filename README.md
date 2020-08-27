@@ -7,7 +7,7 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 
 ### Libraries Used
 
-- speech_recognition
+- SpeechRecognition
 - time
 - sys
 - datetime
@@ -102,7 +102,7 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 ### Kullanılan Kütüphaneler
 
-- speech_recognition
+- SpeechRecognition
 - time
 - sys
 - datetime
