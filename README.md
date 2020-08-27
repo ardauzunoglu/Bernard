@@ -28,6 +28,28 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 
 [More about Python path](https://www.youtube.com/watch?v=Y2q_b4ugPWk)
 
+[Needed JSON file 1 - credentials.json] (https://developers.google.com/calendar/quickstart/go)
+
+Click 'Enable the Google Calendar API' button.
+
+Choose or create a project. Click Next.
+
+Choose desktop app. Click Create.
+
+Click 'DOWNLOAD CLIENT CONFIGURATION'.
+
+[Needed JSON file 2 - client_secret.json] (https://console.developers.google.com/apis/dashboard)
+
+Click 'Credentials'.
+
+Click 'Create credentials'.
+
+Choose OAuth.
+
+Choose Desktop app as application type. Create the credential.
+
+Click the download icon near to your OAuth credential.
+
 ### Commands - What can Bernard do?
 
 **Command Name:** tarih <br>
@@ -100,6 +122,28 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 > JSON dosyaları Python'ın path'inde olmalı.
 
 [Python path'i hakkında daha fazlası](https://www.youtube.com/watch?v=Y2q_b4ugPWk)
+
+[Gerekli JSON dosyası 1 - credentials.json] (https://developers.google.com/calendar/quickstart/go)
+
+'Enable the Google Calendar API' butonuna tıklayın.
+
+Bir proje seçin ya da yeni bir proje oluşturun. Next butonuna tıklayın.
+
+Desktop app'i seçin. Create butonuna tıklayın.
+
+'DOWNLOAD CLIENT CONFIGURATION' butonuna tıklayın.
+
+[Needed JSON file 2 - client_secret.json] (https://console.developers.google.com/apis/dashboard)
+
+Kimlik bilgilerine tıklayın.
+
+'Kimlik bilgisi oluştur' butonuna tıklayın.
+
+OAuth işlemci kimliğini seçin.
+
+Uygulama türü olarak masaüstü uygulamasını seçin. 'Oluştur' butonuna tıklayın.
+
+Oluşturduğunuz yeni işlemci kimliğinin yanındaki indirme ikonuna tıklayın.
 
 ### Komutlar - Bernard neler yapabilir?
 
