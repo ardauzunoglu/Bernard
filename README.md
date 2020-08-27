@@ -19,6 +19,8 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 - selenium
 - smtplib
 - requests
+- google-auth-oauthlib
+- google-api-python-client
 
 ### Requirements
 
@@ -114,6 +116,8 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 - selenium
 - smtplib
 - requests
+- google-auth-oauthlib
+- google-api-python-client
 
 ### Gereksinimler
 
