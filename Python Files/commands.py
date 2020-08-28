@@ -31,7 +31,6 @@ from email.mime.multipart import MIMEMultipart
 from apiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 import requests
-from nltk.chat.util import Chat, reflections 
 
 
 r = sr.Recognizer()
