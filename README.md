@@ -127,6 +127,10 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 > Yukarıdaki kütüphaneleri konsolda "pip install xxxxx" komudu ile kurmalısınız.
 
+> ChromeDriver'ı kurmalısınız ve konumu "C:\Program Files (x86)\chromedriver.exe" olmalı.
+
+> [ChromeDriver'ı İndir](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
+
 > JSON dosyaları Python'ın path'inde olmalı.
 
 [Python path'i hakkında daha fazlası](https://www.youtube.com/watch?v=Y2q_b4ugPWk)
