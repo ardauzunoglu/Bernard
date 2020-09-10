@@ -28,7 +28,7 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 
 > You must install ChromeDriver and the directory shall be "C:\Program Files (x86)\chromedriver.exe".
 
-> [Download ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
+[Download ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
 
 > You must have the JSON files in your Python path.
 
@@ -36,25 +36,25 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 
 [Needed JSON file 1 - credentials.json](https://developers.google.com/calendar/quickstart/go)
 
-Click 'Enable the Google Calendar API' button.
+> Click 'Enable the Google Calendar API' button.
 
-Choose or create a project. Click Next.
+> Choose or create a project. Click Next.
 
-Choose desktop app. Click Create.
+> Choose desktop app. Click Create.
 
-Click 'DOWNLOAD CLIENT CONFIGURATION'.
+> Click 'DOWNLOAD CLIENT CONFIGURATION'.
 
 [Needed JSON file 2 - client_secret.json](https://console.developers.google.com/apis/dashboard)
 
-Click 'Credentials'.
+> Click 'Credentials'.
 
-Click 'Create credentials'.
+> Click 'Create credentials'.
 
-Choose OAuth.
+> Choose OAuth.
 
-Choose Desktop app as application type. Create the credential.
+> Choose Desktop app as application type. Create the credential.
 
-Click the download icon near to your OAuth credential.
+> Click the download icon near to your OAuth credential.
 
 ### Commands - What can Bernard do?
 
@@ -129,7 +129,7 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 > ChromeDriver'ı kurmalısınız ve konumu "C:\Program Files (x86)\chromedriver.exe" olmalı.
 
-> [ChromeDriver'ı İndir](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
+[ChromeDriver'ı İndir](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
 
 > JSON dosyaları Python'ın path'inde olmalı.
 
@@ -137,25 +137,25 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 [Gerekli JSON dosyası 1 - credentials.json](https://developers.google.com/calendar/quickstart/go)
 
-'Enable the Google Calendar API' butonuna tıklayın.
+> 'Enable the Google Calendar API' butonuna tıklayın.
 
-Bir proje seçin ya da yeni bir proje oluşturun. Next butonuna tıklayın.
+> Bir proje seçin ya da yeni bir proje oluşturun. Next butonuna tıklayın.
 
-Desktop app'i seçin. Create butonuna tıklayın.
+> Desktop app'i seçin. Create butonuna tıklayın.
 
-'DOWNLOAD CLIENT CONFIGURATION' butonuna tıklayın.
+> 'DOWNLOAD CLIENT CONFIGURATION' butonuna tıklayın.
 
 [Needed JSON file 2 - client_secret.json](https://console.developers.google.com/apis/dashboard)
 
-Kimlik bilgilerine tıklayın.
+> Kimlik bilgilerine tıklayın.
 
-'Kimlik bilgisi oluştur' butonuna tıklayın.
+> 'Kimlik bilgisi oluştur' butonuna tıklayın.
 
-OAuth işlemci kimliğini seçin.
+> OAuth işlemci kimliğini seçin.
 
-Uygulama türü olarak masaüstü uygulamasını seçin. 'Oluştur' butonuna tıklayın.
+> Uygulama türü olarak masaüstü uygulamasını seçin. 'Oluştur' butonuna tıklayın.
 
-Oluşturduğunuz yeni işlemci kimliğinin yanındaki indirme ikonuna tıklayın.
+> Oluşturduğunuz yeni işlemci kimliğinin yanındaki indirme ikonuna tıklayın.
 
 ### Komutlar - Bernard neler yapabilir?
 
