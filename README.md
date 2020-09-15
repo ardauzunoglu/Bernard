@@ -102,6 +102,8 @@ Error handling can and should be improved.
 
 Various and better commands are on the way. Stay tuned!
 
+Latest Update: 10 September 2020
+
 ### Amaç 
 
 Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, belli başlı görevleri gerçekleştirir.
@@ -202,3 +204,5 @@ Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 Hata ayıklaması daha iyi yapılabilir/yapılmalı.
 
 Çeşitli ve daha iyi komutlar yolda. Takipte kalın!
+
+Son Güncelleme: 10 Eylül 2020
