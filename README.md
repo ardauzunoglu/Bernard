@@ -22,6 +22,7 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 - google-auth-oauthlib
 - google-api-python-client
 - speedtest-cli
+- win10toast
 
 ### Requirements
 
@@ -126,6 +127,7 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 - google-auth-oauthlib
 - google-api-python-client
 - speedtest-cli
+- win10toast
 
 ### Gereksinimler
 
