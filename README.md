@@ -28,6 +28,8 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 
 > You must install the libraries in cmd using the command "pip install xxxxx".
 
+> You must have the files in 'Other Files' in your Python path.
+
 > You must install ChromeDriver and the directory shall be "C:\Program Files (x86)\chromedriver.exe".
 
 [Download ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
@@ -132,6 +134,8 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 ### Gereksinimler
 
 > Yukarıdaki kütüphaneleri konsolda "pip install xxxxx" komudu ile kurmalısınız.
+
+> 'Other Files'daki dosyalar Python path'inizde olmalı.
 
 > ChromeDriver'ı kurmalısınız ve konumu "C:\Program Files (x86)\chromedriver.exe" olmalı.
 
