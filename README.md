@@ -203,11 +203,11 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 **Komut Adı:** doviz_cevir <br>
 **İşlev:** 50'den fazla para birimi arasında çeviri yapar. <br>
 
-### Developer 
+### Geliştirici 
 
 Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
-### Further Notes
+### İlave Notlar
 
 Hata ayıklaması daha iyi yapılabilir/yapılmalı.
 
