@@ -102,6 +102,12 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 **Command Name:** vikipedi <br>
 **Function:** You can search anything that you can search on Wikipedia with this command. Bernard brings up results of your search. <br>
 
+**Command Name:** whatsapp <br>
+**Function:** Bernard asks you to who you want to message and what do you want to message and then sends the message. <br>
+
+**Command Name:** internet_hizi <br>
+**Function:** Measures your Ping with Download and Upload Mbps'. <br>
+
 ### Developer 
 
 Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
@@ -214,6 +220,12 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 **Komut Adı:** vikipedi <br>
 **İşlev:** Vikipedi üzerinde yapacağınız herhangi bir aramayı bu komut ile gerçekleştirebilirsiniz. Bernard yaptığınız aramanın sonuçlarını getirir. <br>
+
+**Komut Adı:** whatsapp <br>
+**İşlev:** Bernard, kime mesaj göndereceğinizi ve göndereceğiniz mesajı sorar ve mesajı gönderir. <br>
+
+**Komut Adı:** internet_hizi <br>
+**İşlev:** Pinginiz ile Yükleme ve İndirme Mbps'lerinizi ölçer. <br>
 
 ### Geliştirici 
 
