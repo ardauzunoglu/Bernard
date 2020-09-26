@@ -96,6 +96,9 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 **Command Name:** doviz_cevir <br>
 **Function:** Converts between more than 50 currencies. <br>
 
+**Command Name:** hava_durumu <br>
+**Function:** Shows the weather forecast of both the current day and a day you want in a 14 days range. <br>
+
 ### Developer 
 
 Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
@@ -202,6 +205,9 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 **Komut Adı:** doviz_cevir <br>
 **İşlev:** 50'den fazla para birimi arasında çeviri yapar. <br>
+
+**Komut Adı:** hava_durumu <br>
+**İşlev:** İçinde bulunduğunuz ya da 14 gün içerisindeki bir günün hava durumunu gösterir. <br>
 
 ### Geliştirici 
 
