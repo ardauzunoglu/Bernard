@@ -108,6 +108,9 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 **Command Name:** internet_hizi <br>
 **Function:** Measures your Ping with Download and Upload Mbps'. <br>
 
+**Command Name:** bilgilendirme_olustur <br>
+**Function:** Creates a Windows notification with a duration you want. <br>
+
 ### Developer 
 
 Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
@@ -226,6 +229,9 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 **Komut Adı:** internet_hizi <br>
 **İşlev:** Pinginiz ile Yükleme ve İndirme Mbps'lerinizi ölçer. <br>
+
+**Komut Adı:** bilgilendirme_olustur <br>
+**İşlev:** İstediğiniz kadar sürecek bir Windows bildirimi oluşturur. <br>
 
 ### Geliştirici 
 
