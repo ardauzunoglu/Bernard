@@ -243,4 +243,4 @@ Hata ayıklaması daha iyi yapılabilir/yapılmalı.
 
 Çeşitli ve daha iyi komutlar yolda. Takipte kalın!
 
-Son Güncelleme: 10 Eylül 2020
+Son Güncelleme: 26 Eylül 2020
