@@ -247,6 +247,18 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 **Komut Adı:** bilgilendirme_olustur <br>
 **İşlev:** İstediğiniz kadar sürecek bir Windows bildirimi oluşturur. <br>
 
+**Komut Adı:** qr_kod_olustur <br>
+**İşlev:** İstediğiniz bir url'ye yönlendirecek bir QR kod oluşturur. <br>
+
+**Komut Adı:** sifre_olustur <br>
+**İşlev:** İstediğiniz harfleri barındıracak şekilde, istediğiniz uzunlukta bir şifre oluşturur. <br>
+
+**Komut Adı:** coronavirus <br>
+**İşlev:** COVID-19 hakkında veri getirir. <br>
+
+**Komut Adı:** eksi_sozluk <br>
+**İşlev:** Ekşi Sözlük platformundaki bir başlıktan veri çeker ve depolar. <br>
+
 ### Geliştirici 
 
 Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
