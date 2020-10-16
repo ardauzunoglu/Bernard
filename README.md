@@ -112,6 +112,18 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 **Command Name:** bilgilendirme_olustur <br>
 **Function:** Creates a Windows notification with a duration you want. <br>
 
+**Command Name:** qr_kod_olustur <br>
+**Function:** Creates a QR code that directs you to a url you want. <br>
+
+**Command Name:** sifre_olustur <br>
+**Function:** Creates a password that includes letters and/or symbols you want with a length of your preference. <br>
+
+**Command Name:** coronavirus <br>
+**Function:** Brings data about COVID-19. <br>
+
+**Command Name:** eksi_sozluk <br>
+**Function:** Collects and stores data from a headline from Ekşi Sözlük platform. <br>
+
 ### Developer 
 
 Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
