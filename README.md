@@ -7,22 +7,23 @@ Bernard is a voice assistant developed with gTTS. It can fulfill basic and simpl
 
 ### Libraries Used
 
-- SpeechRecognition
-- time
-- sys
 - datetime
-- pickle 
-- os
+- time
+- speedtest
 - playsound
+- speech_recognition 
 - sqlite3
-- gTTS
-- selenium
+- pytz
 - smtplib
 - requests
-- google-auth-oauthlib
-- google-api-python-client
-- speedtest-cli
+- wikipedia
+- pyqrcode
+- random
+- pandas
+- covid
 - win10toast
+- gtts
+- selenium
 
 ### Requirements
 
@@ -129,22 +130,23 @@ Bernard gTTS kullanılarak geliştirilen bir sesli asistan. Verdiğiniz basit, b
 
 ### Kullanılan Kütüphaneler
 
-- SpeechRecognition
-- time
-- sys
 - datetime
-- pickle 
-- os
+- time
+- speedtest
 - playsound
+- speech_recognition 
 - sqlite3
-- gTTS
-- selenium
+- pytz
 - smtplib
 - requests
-- google-auth-oauthlib
-- google-api-python-client
-- speedtest-cli
+- wikipedia
+- pyqrcode
+- random
+- pandas
+- covid
 - win10toast
+- gtts
+- selenium
 
 ### Gereksinimler
 
