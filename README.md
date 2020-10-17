@@ -134,7 +134,7 @@ Error handling can and should be improved.
 
 Various and better commands are on the way. Stay tuned!
 
-Latest Update: 26 September 2020
+Latest Update: 16 October 2020
 
 ### Amaç 
 
