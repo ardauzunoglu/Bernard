@@ -269,4 +269,4 @@ Hata ayıklaması daha iyi yapılabilir/yapılmalı.
 
 Çeşitli ve daha iyi komutlar yolda. Takipte kalın!
 
-Son Güncelleme: 26 Eylül 2020
+Son Güncelleme: 16 Ekim 2020
